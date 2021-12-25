@@ -23,5 +23,5 @@ python manage.py runserver
 
 # Контакти 
 
-- Кушенко Сергій ІО-92     tg: @sobol_gg   email: kushenkosergey111@gmail.com
-- Соболь Денис ІО-92     tg: @kushenk0       email: deesy2203@gmail.com
+- Кушенко Сергій ІО-92     tg: @kushenk0   email: kushenkosergey111@gmail.com
+- Соболь Денис ІО-92       tg: @sobol_gg   email: deesy2203@gmail.com
